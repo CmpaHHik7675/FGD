@@ -1,0 +1,16 @@
+  Base = declarative_base()
+2025-03-04 18:20:00,915 INFO sqlalchemy.engine.Engine BEGIN (implicit)
+2025-03-04 18:20:00,915 INFO sqlalchemy.engine.Engine PRAGMA main.table_info("users")
+2025-03-04 18:20:00,915 INFO sqlalchemy.engine.Engine [raw sql] ()
+2025-03-04 18:20:00,915 INFO sqlalchemy.engine.Engine COMMIT
+2025-03-04 18:20:00,919 INFO sqlalchemy.engine.Engine BEGIN (implicit)
+2025-03-04 18:20:00,921 INFO sqlalchemy.engine.Engine INSERT INTO users (name) VALUES (?)
+2025-03-04 18:20:00,922 INFO sqlalchemy.engine.Engine [generated in 0.00029s] ('Іван',)
+2025-03-04 18:20:00,934 INFO sqlalchemy.engine.Engine COMMIT
+2025-03-04 18:20:00,943 INFO sqlalchemy.engine.Engine BEGIN (implicit)
+2025-03-04 18:20:00,946 INFO sqlalchemy.engine.Engine SELECT users.id AS users_id, users.name AS users_name
+FROM users
+2025-03-04 18:20:00,947 INFO sqlalchemy.engine.Engine [generated in 0.00045s] ()
+Користувачі в базі даних:
+ID: 1, Name: Іван
+ID: 2, Name: Іван
