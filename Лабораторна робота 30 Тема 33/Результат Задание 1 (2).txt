@@ -1,0 +1,23 @@
+(366, '1984', 'George Orwell', 1949, 'Dystopian')
+(367, 'To Kill a Mockingbird', 'Harper Lee', 1960, 'Fiction')
+(368, 'The Great Gatsby', 'F. Scott Fitzgerald', 1925, 'Classic')
+(369, 'Moby-Dick', 'Herman Melville', 1851, 'Adventure')
+(370, 'War and Peace', 'Leo Tolstoy', 1869, 'Historical Fiction')
+
+Введите название книги:
+/..111
+Книга не найдена.
+
+Назва книги и новий рік
+Назва книги:
+/..4
+Новий рік видання:
+/..444
+
+Книга не знайдена.
+
+Какую книгу удалить?
+/..444444
+Книга не найдена.
+
+Для продолжения нажмите любую клавишу . . .

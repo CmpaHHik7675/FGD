@@ -1,0 +1,37 @@
+(361, '1984', 'George Orwell', 1949, 'Dystopian')
+(362, 'To Kill a Mockingbird', 'Harper Lee', 1960, 'Fiction')
+(363, 'The Great Gatsby', 'F. Scott Fitzgerald', 1925, 'Classic')
+(364, 'Moby-Dick', 'Herman Melville', 1851, 'Adventure')
+(365, 'War and Peace', 'Leo Tolstoy', 1869, 'Historical Fiction')
+
+Введите название книги:
+/..1984
+[(361, '1984', 'George Orwell', 1949, 'Dystopian')]
+
+
+Назва книги и новий рік
+Назва книги:
+/..War and Peace
+Новий рік видання:
+/..1111
+
+Книга 'War and Peace' успішно оновлена. Новий рік видання: 1111
+
+Книги сейчас:
+(361, '1984', 'George Orwell', 1949, 'Dystopian')
+(362, 'To Kill a Mockingbird', 'Harper Lee', 1960, 'Fiction')
+(363, 'The Great Gatsby', 'F. Scott Fitzgerald', 1925, 'Classic')
+(364, 'Moby-Dick', 'Herman Melville', 1851, 'Adventure')
+(365, 'War and Peace', 'Leo Tolstoy', 1111, 'Historical Fiction')
+
+Какую книгу удалить?
+/..Moby-Dick
+Книга успешно удалена.
+
+Книги сейчас:
+(361, '1984', 'George Orwell', 1949, 'Dystopian')
+(362, 'To Kill a Mockingbird', 'Harper Lee', 1960, 'Fiction')
+(363, 'The Great Gatsby', 'F. Scott Fitzgerald', 1925, 'Classic')
+(365, 'War and Peace', 'Leo Tolstoy', 1111, 'Historical Fiction')
+
+Для продолжения нажмите любую клавишу . . .
